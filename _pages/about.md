@@ -8,7 +8,7 @@ subtitle: Ph.D. Candidate, Chemical Engineering, UT Austin
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>4.164,</p>
     <p>200 E Dean Keeton St, </p>
