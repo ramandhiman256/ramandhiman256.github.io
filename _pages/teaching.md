@@ -7,6 +7,7 @@ nav_order: 6
 ---
 
 I have served as a teaching assistant for three courses during my graduate tenure at The University of Texas at Austin:
+
 1) Undegraduate Thermodynamics
 2) Undergraduate Chemical Engineering Process and Project Lab
 3) Graduate Transport Phenomena
