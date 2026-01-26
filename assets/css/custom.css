@@ -1,5 +1,4 @@
-/* Justify paragraph text on pages */
-.page__content p {
-  text-align: justify;
+.layout--about .post .clearfix p {
+  text-align: justify !important;
   hyphens: auto;
 }
