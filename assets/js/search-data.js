@@ -398,7 +398,22 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "pages-page-not-found",
+            },},{id: "news-gave-an-oral-presentation-at-the-faraday-discussion-on-molecular-and-ion-flows-through-angstrom-scale-channels-royal-society-of-chemistry-manchester-uk",
+          title: 'Gave an oral presentation at the Faraday Discussion on Molecular and Ion Flows...',
+          description: "",
+          section: "News",},{id: "news-my-first-author-paper-inducing-nonlinear-conductance-and-emergent-memristance-in-open-pores-using-blockers-appears-in-faraday-discussions-doi",
+          title: 'My first-author paper, Inducing nonlinear conductance and emergent memristance in open pores using...',
+          description: "",
+          section: "News",},{id: "news-received-the-outstanding-teaching-assistant-award-from-the-mcketta-department-of-chemical-engineering-for-my-fall-2025-appointment-in-che-381n-fluid-flow-and-heat-transfer-more",
+          title: 'Received the Outstanding Teaching Assistant Award from the McKetta Department of Chemical Engineering...',
+          description: "",
+          section: "News",},{id: "news-awarded-the-mulraney-family-endowed-graduate-fellowship-in-chemical-engineering-for-2026-2027",
+          title: 'Awarded the Mulraney Family Endowed Graduate Fellowship in Chemical Engineering for 2026–2027.',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-jammed-interconnected-bilayer-emulsions-as-3d-printable-biological-tissue-mimics-is-published-in-nature-materials-doi",
+          title: 'Our paper on jammed interconnected bilayer emulsions as 3D-printable biological tissue mimics is...',
+          description: "",
+          section: "News",},{id: "pages-page-not-found",
           title: 'Page not found',
           description: "Looks like there has been a mistake. Nothing exists here.",
           section: "Pages",handler: () => {
